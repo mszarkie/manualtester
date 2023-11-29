@@ -1,6 +1,6 @@
 # Instagram Registration and Login Tests
 
-This repository contains test cases for the registration and login features of Instagram. Test cases which are written in .xlsx file are based on a images in /photo folder.
+This repository contains test cases for the registration and login features of Instagram. Test cases which are written in .xlsx file are based on a images in /photos folder.
 
 ## Objectives
 
@@ -30,7 +30,7 @@ The login tests cover the following scenarios:
 - Login of a user using Facebook account
 - Login of a user with a blocked, deleted account
 - Remind a forgotten password
-Opening additional information in the login form
+- Opening additional information in the login form
 
 ## Tips:
 
@@ -40,7 +40,7 @@ Feel free to change name of the D Column - you can perform test in any choosen e
 
 #### Key words:
 
-tests test cases login registration
+tests test cases manual tests login registration
 
 michal.szarek48@gmail.com
 

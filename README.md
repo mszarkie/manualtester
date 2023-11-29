@@ -1,6 +1,6 @@
 # Instagram Registration and Login Tests
 
-This repository contains test cases for the registration and login features of Instagram. Test cases whitch are written in .xlxs file are based on a images in /photo folder.
+This repository contains test cases for the registration and login features of Instagram. Test cases whitch are written in .xlsx file are based on a images in /photo folder.
 
 ## Objectives
 
